@@ -16,12 +16,12 @@ async def join(client, invite_link):
     except UserAlreadyParticipant:
         return "User is already a participant."
     except (InviteHashInvalid, InviteHashExpired):
-        return "Could not join. Maybe your link is expired or Invalid."
+        return 𝘛𝘪𝘥𝘢𝘬 𝘥𝘢𝘱𝘢𝘵 𝘣𝘦𝘳𝘨𝘢𝘣𝘶𝘯𝘨.  𝘔𝘶𝘯𝘨𝘬𝘪𝘯 𝘭𝘪𝘯𝘬 𝘈𝘯𝘥𝘢 𝘴𝘶𝘥𝘢𝘩 𝘬𝘢𝘥𝘢𝘭𝘶𝘸𝘢𝘳𝘴𝘢 𝘢𝘵𝘢𝘶 𝘵𝘪𝘥𝘢𝘬 𝘷𝘢𝘭𝘪𝘥😇."
     except FloodWait:
-        return "Too many requests, try again later."
+        return "ᴛᴇʀʟᴀʟᴜ ʙᴀɴʏᴀᴋ ᴘᴇʀᴍɪɴᴛᴀᴀɴ ʜᴀᴅᴇʜ, ᴄᴏʙᴀ ʟᴀɢɪ ɴᴀɴᴛɪ ᴋᴀᴋ🙏🏻."
     except Exception as e:
         print(e)
-        return "Could not join, try joining manually."
+        return "𝘛𝘪𝘥𝘢𝘬 𝘥𝘢𝘱𝘢𝘵 𝘣𝘦𝘳𝘨𝘢𝘣𝘶𝘯𝘨, 𝘤𝘰𝘣𝘢 𝘣𝘦𝘳𝘨𝘢𝘣𝘶𝘯𝘨 𝘴𝘦𝘤𝘢𝘳𝘢 𝘮𝘢𝘯𝘶𝘢𝘭."
     
 #Regex---------------------------------------------------------------------------------------------------------------
 #to get the url from event
