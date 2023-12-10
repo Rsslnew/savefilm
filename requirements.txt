@@ -2,8 +2,14 @@
 #Ubah Versi indo By @dontnicetry
 
 https://github.com/Djangonew/Telethon/archive/refs/tags/v1.24.0.zip
-https://github.com/Djangonew/Ethonn/archive/refs/tags/v0.1.5.zip
+#https://github.com/Djangonew/Ethonn/archive/refs/tags/v0.1.5.zip
 cryptg
 tgcrypto
 pyrogram
 python-decouple
+telethon
+aiofiles
+aaiohttp
+opencv-python-headless
+yt_dlp
+requests
