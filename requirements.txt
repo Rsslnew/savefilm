@@ -7,9 +7,4 @@ cryptg
 tgcrypto
 pyrogram
 python-decouple
-telethon==1.24.0
-aiofiles
-aiohttp
-opencv-python-headless
-yt_dlp
-requests
+ethon==0.1.5
