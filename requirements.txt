@@ -1,13 +1,13 @@
 #Github.com-Vasusen-code
 #Ubah Versi indo By @dontnicetry
 
-https://github.com/Djangonew/Telethon/archive/refs/tags/v1.24.0.zip
+#https://github.com/Djangonew/Telethon/archive/refs/tags/v1.24.0.zip
 #https://github.com/Djangonew/Ethonn/archive/refs/tags/v0.1.5.zip
 cryptg
 tgcrypto
 pyrogram
 python-decouple
-telethon
+telethon==1.24.0
 aiofiles
 aiohttp
 opencv-python-headless
