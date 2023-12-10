@@ -9,7 +9,7 @@ pyrogram
 python-decouple
 telethon
 aiofiles
-aaiohttp
+aiohttp
 opencv-python-headless
 yt_dlp
 requests
