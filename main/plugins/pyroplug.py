@@ -143,7 +143,7 @@ async def get_msg(userbot, client, bot, sender, edit_id, msg_link, i):
                 pass
             await edit.delete()
         except (ChannelBanned, ChannelInvalid, ChannelPrivate, ChatIdInvalid, ChatInvalid):
-            await client.edit_message_text(sender, edit_id, "Have you joined the channel?")
+            await client.edit_message_text(sender, edit_id, "Jᴏɪɴ ᴄʜᴀɴɴᴇʟ ᴛᴇʀʟᴇʙɪʜ ᴅᴀʜᴜʟᴜ😇")
             return
         except PeerIdInvalid:
             chat = int(msg_link.split("/")[-3])
